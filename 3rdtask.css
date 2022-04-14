@@ -1,0 +1,31 @@
+.background{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(237,20,159,1) 0%, rgba(0,212,255,1) 178%);
+  
+}
+
+.form{
+    margin-left: 1cm;
+    margin-top: 2cm;
+    margin-right: 1cm;
+}
+
+.head{
+    color: #d9d9d9;
+    margin-top: 2cm;
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+label{
+    font-size: x-large;
+}
+
+.white{
+    color: white;
+}
+
+
